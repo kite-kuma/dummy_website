@@ -10,3 +10,6 @@
 [submodule "themes/Universal"]
 	path = themes/Universal
 	url = https://github.com/devcows/hugo-universal-theme
+[submodule "themes/Relearn"]
+	path = themes/Relearn
+	url = git@github.com:McShelby/hugo-theme-relearn.git

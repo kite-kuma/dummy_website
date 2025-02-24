@@ -1,9 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Dummy site (Universal)'
-theme = 'Universal'
+title = 'Dummy site (Relearn)'
+theme = 'Relearn'
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+  category = 'categories'
+  tag = 'tags'
 [params]
-  date_format = "2006-01-02" # Example format
+  date_format = '2006-01-02' # Example format
+
+[[params.menu]]
+    name = 'Contact'
+    url  = '/contact'
+    weight = 4
