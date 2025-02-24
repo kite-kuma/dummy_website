@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kite-kuma.github.io/dummy_site/'
 languageCode = 'en-us'
-title = 'Dummy site (Relearn)'
+title = 'Dummy site'
 theme = 'PaperMod'
 [taxonomies]
   category = 'categories'
