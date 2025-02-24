@@ -1,4 +1,4 @@
-baseURL = 'https://kite-kuma.github.io/dummy_site/'
+baseURL = 'https://kite-kuma.github.io/dummy_website/'
 languageCode = 'en-us'
 title = 'Dummy site'
 theme = 'PaperMod'
