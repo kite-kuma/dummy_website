@@ -1,28 +1,28 @@
-# name: Deploy Hugo Site to GitHub Pages
+name: Deploy Hugo Site to GitHub Pages
 
-# on:
-#   push:
-#     branches:
-#       - main  # Change this if your main branch is named differently
+on:
+  push:
+    branches:
+      - main  # Change this if your main branch is named differently
 
-# jobs:
-#   deploy:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout repository
-#         uses: actions/checkout@v4
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-#       - name: Install Hugo
-#         uses: peaceiris/actions-hugo@v3
-#         with:
-#           hugo-version: 'latest'
-#           extended: true
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
 
-#       - name: Build Hugo site
-#         run: hugo --minify
+      - name: Build Hugo site
+        run: hugo --minify
 
-#       - name: Deploy to GitHub Pages
-#         uses: peaceiris/actions-gh-pages@v4
-#         with:
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
-#           publish_dir: ./public
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
