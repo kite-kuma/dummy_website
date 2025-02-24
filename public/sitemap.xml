@@ -1,57 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/articles/index.html</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/posts/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/articles/subcategory1/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/subcategory1/</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/articles/subcategory1/tips2/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/subcategory1/tips2/</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/articles/tips2/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/tips2/</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/articles/subcategory1/tips1/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/subcategory1/tips1/</loc>
     <lastmod>2025-02-24T15:51:02+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/articles/tips1/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/tips1/</loc>
     <lastmod>2025-02-24T15:51:02+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/posts/tips1/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/tips1/</loc>
     <lastmod>2025-02-24T15:51:02+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/articles/intro/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/intro/</loc>
     <lastmod>2025-02-24T11:19:46+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/articles/subcategory1/intro/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/subcategory1/intro/</loc>
     <lastmod>2025-02-24T11:19:46+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/posts/intro/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/intro/</loc>
     <lastmod>2025-02-24T11:19:46+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://example.org/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>http://example.org/tags/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

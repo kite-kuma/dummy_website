@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Dummy site (Relearn)'
-theme = 'Relearn'
+theme = 'PaperMod'
 [taxonomies]
   category = 'categories'
   tag = 'tags'

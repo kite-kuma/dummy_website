@@ -1,40 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Articles :: Dummy site (Relearn)</title>
-    <link>http://example.org/articles/index.html</link>
-    <description></description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
+    <title>Articles on Dummy site (Relearn)</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on Dummy site (Relearn)</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 24 Feb 2025 16:10:23 +0900</lastBuildDate>
-    <atom:link href="http://example.org/articles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>subcat1</title>
-      <link>http://example.org/articles/subcategory1/index.html</link>
-      <pubDate>Mon, 24 Feb 2025 16:10:23 +0900</pubDate>
-      <guid>http://example.org/articles/subcategory1/index.html</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tips2</title>
-      <link>http://example.org/articles/tips2/index.html</link>
+      <link>http://localhost:1313/articles/tips2/</link>
       <pubDate>Mon, 24 Feb 2025 16:10:23 +0900</pubDate>
-      <guid>http://example.org/articles/tips2/index.html</guid>
+      <guid>http://localhost:1313/articles/tips2/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips1</title>
-      <link>http://example.org/articles/tips1/index.html</link>
+      <link>http://localhost:1313/articles/tips1/</link>
       <pubDate>Mon, 24 Feb 2025 15:51:02 +0900</pubDate>
-      <guid>http://example.org/articles/tips1/index.html</guid>
-      <description>The second article.</description>
+      <guid>http://localhost:1313/articles/tips1/</guid>
+      <description>&lt;p&gt;The second article.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Intro</title>
-      <link>http://example.org/articles/intro/index.html</link>
+      <link>http://localhost:1313/articles/intro/</link>
       <pubDate>Mon, 24 Feb 2025 11:19:46 +0900</pubDate>
-      <guid>http://example.org/articles/intro/index.html</guid>
-      <description>Introduction This article is the first sample of a dummy website created by Hugo.</description>
+      <guid>http://localhost:1313/articles/intro/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This article is the first sample of a dummy website created by Hugo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
