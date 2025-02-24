@@ -1,37 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/articles/index.html</loc>
+    <loc>http://example.org/articles/index.html</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/index.html</loc>
+    <loc>http://example.org/index.html</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
+    <loc>http://example.org/posts/index.html</loc>
     <lastmod>2025-02-24T16:10:23+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/tips1/index.html</loc>
+    <loc>http://example.org/articles/subcategory1/index.html</loc>
+    <lastmod>2025-02-24T16:10:23+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://example.org/articles/subcategory1/tips2/index.html</loc>
+    <lastmod>2025-02-24T16:10:23+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://example.org/articles/tips2/index.html</loc>
+    <lastmod>2025-02-24T16:10:23+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://example.org/articles/subcategory1/tips1/index.html</loc>
     <lastmod>2025-02-24T15:51:02+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/tips1/index.html</loc>
+    <loc>http://example.org/articles/tips1/index.html</loc>
     <lastmod>2025-02-24T15:51:02+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/intro/index.html</loc>
+    <loc>http://example.org/posts/tips1/index.html</loc>
+    <lastmod>2025-02-24T15:51:02+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://example.org/articles/intro/index.html</loc>
     <lastmod>2025-02-24T11:19:46+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/intro/index.html</loc>
+    <loc>http://example.org/articles/subcategory1/intro/index.html</loc>
     <lastmod>2025-02-24T11:19:46+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>http://example.org/posts/intro/index.html</loc>
+    <lastmod>2025-02-24T11:19:46+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>http://example.org/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>http://example.org/tags/index.html</loc>
   </url>
 </urlset>

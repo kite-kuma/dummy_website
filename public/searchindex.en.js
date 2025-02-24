@@ -8,20 +8,52 @@ var relearn_searchindex = [
     "uri": "/articles/index.html"
   },
   {
-    "breadcrumb": "Dummy site (Relearn)",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Articles",
-    "uri": "/posts/index.html"
-  },
-  {
     "breadcrumb": "",
     "content": "",
     "description": "",
     "tags": [],
     "title": "Dummy site (Relearn)",
     "uri": "/index.html"
+  },
+  {
+    "breadcrumb": "Dummy site (Relearn)",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Other Tips",
+    "uri": "/posts/index.html"
+  },
+  {
+    "breadcrumb": "Dummy site (Relearn) \u003e  Articles",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "subcat1",
+    "uri": "/articles/subcategory1/index.html"
+  },
+  {
+    "breadcrumb": "Dummy site (Relearn) \u003e  Articles \u003e  subcat1",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tips2",
+    "uri": "/articles/subcategory1/tips2/index.html"
+  },
+  {
+    "breadcrumb": "Dummy site (Relearn) \u003e  Articles",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tips2",
+    "uri": "/articles/tips2/index.html"
+  },
+  {
+    "breadcrumb": "Dummy site (Relearn) \u003e  Articles \u003e  subcat1",
+    "content": "The second article.\nsee the previous article –\u003e",
+    "description": "The second article.\nsee the previous article –\u003e",
+    "tags": [],
+    "title": "Tips1",
+    "uri": "/articles/subcategory1/tips1/index.html"
   },
   {
     "breadcrumb": "Dummy site (Relearn) \u003e  Articles",
@@ -32,7 +64,7 @@ var relearn_searchindex = [
     "uri": "/articles/tips1/index.html"
   },
   {
-    "breadcrumb": "Dummy site (Relearn) \u003e  Articles",
+    "breadcrumb": "Dummy site (Relearn) \u003e  Other Tips",
     "content": "The second article.",
     "description": "The second article.",
     "tags": [],
@@ -48,7 +80,15 @@ var relearn_searchindex = [
     "uri": "/articles/intro/index.html"
   },
   {
-    "breadcrumb": "Dummy site (Relearn) \u003e  Articles",
+    "breadcrumb": "Dummy site (Relearn) \u003e  Articles \u003e  subcat1",
+    "content": "Introduction This article is the first sample of a dummy website created by Hugo.",
+    "description": "Introduction This article is the first sample of a dummy website created by Hugo.",
+    "tags": [],
+    "title": "Intro",
+    "uri": "/articles/subcategory1/intro/index.html"
+  },
+  {
+    "breadcrumb": "Dummy site (Relearn) \u003e  Other Tips",
     "content": "Introduction This article is the first sample of a dummy website created by Hugo.",
     "description": "Introduction This article is the first sample of a dummy website created by Hugo.",
     "tags": [],

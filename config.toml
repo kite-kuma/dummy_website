@@ -7,8 +7,3 @@ theme = 'Relearn'
   tag = 'tags'
 [params]
   date_format = '2006-01-02' # Example format
-
-[[params.menu]]
-    name = 'Contact'
-    url  = '/contact'
-    weight = 4

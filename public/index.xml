@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dummy site (Relearn)</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>http://example.org/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 16:10:23 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/articles/index.html</link>
+      <link>http://example.org/articles/index.html</link>
       <pubDate>Mon, 24 Feb 2025 16:10:23 +0900</pubDate>
-      <guid>http://localhost:1313/articles/index.html</guid>
+      <guid>http://example.org/articles/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Other Tips</title>
-      <link>http://localhost:1313/posts/index.html</link>
-      <pubDate>Mon, 24 Feb 2025 15:51:02 +0900</pubDate>
-      <guid>http://localhost:1313/posts/index.html</guid>
+      <link>http://example.org/posts/index.html</link>
+      <pubDate>Mon, 24 Feb 2025 16:10:23 +0900</pubDate>
+      <guid>http://example.org/posts/index.html</guid>
       <description></description>
     </item>
   </channel>
