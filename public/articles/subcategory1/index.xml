@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>subcat1 :: Dummy site (Relearn)</title>
+    <link>http://localhost:1313/articles/subcategory1/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 16:10:23 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/subcategory1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips2</title>
+      <link>http://localhost:1313/articles/subcategory1/tips2/index.html</link>
+      <pubDate>Mon, 24 Feb 2025 16:10:23 +0900</pubDate>
+      <guid>http://localhost:1313/articles/subcategory1/tips2/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips1</title>
+      <link>http://localhost:1313/articles/subcategory1/tips1/index.html</link>
+      <pubDate>Mon, 24 Feb 2025 15:51:02 +0900</pubDate>
+      <guid>http://localhost:1313/articles/subcategory1/tips1/index.html</guid>
+      <description>The second article.&#xA;see the previous article</description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/articles/subcategory1/intro/index.html</link>
+      <pubDate>Mon, 24 Feb 2025 11:19:46 +0900</pubDate>
+      <guid>http://localhost:1313/articles/subcategory1/intro/index.html</guid>
+      <description>Introduction This article is the first sample of a dummy website created by Hugo.</description>
+    </item>
+  </channel>
+</rss>

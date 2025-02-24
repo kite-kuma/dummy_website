@@ -6,8 +6,22 @@
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Feb 2025 15:51:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 16:10:23 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>subcat1</title>
+      <link>http://localhost:1313/articles/subcategory1/index.html</link>
+      <pubDate>Mon, 24 Feb 2025 16:10:23 +0900</pubDate>
+      <guid>http://localhost:1313/articles/subcategory1/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips2</title>
+      <link>http://localhost:1313/articles/tips2/index.html</link>
+      <pubDate>Mon, 24 Feb 2025 16:10:23 +0900</pubDate>
+      <guid>http://localhost:1313/articles/tips2/index.html</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tips1</title>
       <link>http://localhost:1313/articles/tips1/index.html</link>
