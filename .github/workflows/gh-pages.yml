@@ -1,5 +1,8 @@
 name: Deploy Hugo Site to GitHub Pages
 
+permissions:
+  contents: write  # Allow writing to the repository
+
 on:
   push:
     branches:
