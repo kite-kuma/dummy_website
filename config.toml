@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Dummy site (Universal)'
+theme = 'Universal'
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+[params]
+  date_format = "2006-01-02" # Example format
