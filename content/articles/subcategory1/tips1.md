@@ -6,6 +6,6 @@ draft: false
 
 The second article.
 
-see the [previous article][1] -->
+<!-- see the [previous article][1] --> -->
 
-[1]:../tips2.md
+<!-- [1]:../tips2.md -->
